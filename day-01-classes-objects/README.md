@@ -1,54 +1,18 @@
-\# Day 01 - Classes and Objects
+Day 01 - Classes and Objects
+Topics:
+- Classes
+- Objects
+- Attributes
+- Methods
+- Validation
 
+Project:
+- Student Class
+- Car Class
+- BankAccount Version 1
 
-
-\## Topics
-
-\- Classes
-
-\- Objects
-
-\- Attributes
-
-\- Methods
-
-\- Validation
-
-
-
-\## Project
-
-\- Student Class
-
-\- Car Class
-
-\- BankAccount Version 1
-
-
-
-\## Features
-
-\- Create objects
-
-\- Display information
-
-\- Update values
-
-\- Basic validation
-
-
-
-\## Completed
-
-\- Student Class
-
-\- Car Class
-
-\- BankAccount
-
-\- GitHub Repository
-
-\- First Push
-
-\- English Introduction
-
+Features:
+- Create objects
+- Display information
+- Update values
+- Basic validation
