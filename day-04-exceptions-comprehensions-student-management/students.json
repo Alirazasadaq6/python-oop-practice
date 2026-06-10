@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1001,
+        "name": "Ali",
+        "department": "Computing",
+        "subjects": ["OOP", "Database"]
+    },
+    {
+        "id": 1002,
+        "name": "Ahmed",
+        "department": "Cyber Security",
+        "subjects": ["OOP", "Database"]
+    },
+    {
+        "id": 1003,
+        "name": "Sara",
+        "department": "Computing",
+        "subjects": ["OOP", "Database"]
+    },
+    {
+        "id": 1004,
+        "name": "Ayesha",
+        "department": "Cyber Security",
+        "subjects": ["OOP", "Database"]
+    },
+    {
+        "id": 1005,
+        "name": "John",
+        "department": "Computing",
+        "subjects": ["OOP", "Database"]
+    }
+]
